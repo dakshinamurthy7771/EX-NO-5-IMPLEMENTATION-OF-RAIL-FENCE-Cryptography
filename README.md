@@ -65,7 +65,7 @@ int main()
 }
 ```
 ## OUTPUT
-
+<img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/3db29db7-5de6-495f-8ea5-143f76177dac" />
 
 ## RESULT
 Hence the experiment has been executed successfully
